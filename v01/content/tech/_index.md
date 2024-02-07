@@ -1,5 +1,5 @@
 ---
-title: "TECH TEST
+title: "TECH TEST"
 menusection: "tech"
 type: "tech"
 weight: 100
