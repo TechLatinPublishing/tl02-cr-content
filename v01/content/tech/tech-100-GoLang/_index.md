@@ -4,7 +4,7 @@ menusection: "tech"
 type: "tech"
 weight: 100
 
-tags: ["bbb","GoLang", "RUST", "AWS", "Git Hub Actions", "DART-FLUTTER", "hugo", "DOCKER", "K8S", "KAFKA", "ESP32"]
+tags: []
 
 subtitle: "Golang empowers microservices with gRPC, REST, WASM, middleware, and lambdas. Versatile, efficient, and scalable development for modern distributed systems."
 image: "/img03/go/img00.png"
