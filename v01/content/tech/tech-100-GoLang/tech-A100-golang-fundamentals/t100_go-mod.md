@@ -1,6 +1,6 @@
 ---
 title: GoLang Mod, WorkGroup
-subtitle: Fundamentals to setup an account  
+subtitle: modules and workgroups  
 date: 2022-01-05
 weight: 200
 draft: false
