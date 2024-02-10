@@ -1,8 +1,8 @@
 ---
-title: GoLang errors
-subtitle: Sentinel Errors & Wrapping/Unwrapping Errors with Code Example  
+title: error handling
+subtitle: error handling with Code Example  
 date: 2022-01-05
-weight: 200
+weight: 300
 draft: false
 type: "tech"
 ---

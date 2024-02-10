@@ -2,15 +2,18 @@
 title: GoLang Mod, WorkGroup
 subtitle: modules and workgroups  
 date: 2022-01-05
-weight: 200
+weight: 100
 draft: false
 type: "tech"
+Links: [    "https://go.dev/doc/tutorial/workspaces",                   "https://go.dev/ref/mod"
+]
+
 ---
 
 # go.mod
 
 ```
-module github.com/<your gitrepo>/<your repo name>
+module github.com/<remote git repo>/<repo name 01>
 
 go 1.21.6
 ```
@@ -19,8 +22,8 @@ go.mod is a Go programming language file defining module information. It specifi
 
 ```
 require (
-	github.com/TechLatinPublishing/tl02-cr-content v0.0.0-20240209190509-108b9d2889c6 // indirect
-	github.com/TechLatinPublishing/tl02-cr-static v0.0.0-20240209135900-87e90e6345d5 // indirect
+	github.com/<remote git repo>/<repo name 01> v0.0.0-20240209190509-108b9d2889c6 // indirect
+	github.com/<remote git repo>/<repo name 02> v0.0.0-20240209135900-87e90e6345d5 // indirect
 )
 ```
 
@@ -67,6 +70,10 @@ go get -u -t [package]
 ```
 
 
-As of my knowledge cutoff in January 2022, Go modules are the preferred way to manage dependencies in Go projects, and the use of go get for managing dependencies is often superseded by go mod.
+# Go WORK
+
+TODO example of WorSpace
+
+
 
 

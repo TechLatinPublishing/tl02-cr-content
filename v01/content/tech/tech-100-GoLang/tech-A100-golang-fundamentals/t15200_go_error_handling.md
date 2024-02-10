@@ -1,5 +1,5 @@
 ---
-title: GoLang errors
+title: Sentinel errors and Wrapping/Unwrapping
 subtitle: Sentinel Errors & Wrapping/Unwrapping Errors with Code Example  
 date: 2022-01-05
 weight: 200
