@@ -1,6 +1,6 @@
 ---
-title: GoLang Mod, WorkGroup
-subtitle: modules and workgroups  
+title: DevOps Go Engineering
+subtitle: Fundamentals that you should just know for interviews 
 date: 2022-01-05
 weight: 50
 draft: false
